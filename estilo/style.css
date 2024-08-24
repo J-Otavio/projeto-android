@@ -92,13 +92,13 @@ header > p{
     color: white;
     font-family: var(--fonte-padrão);
     font-size: 1.2em; /*Tamnaho do texto*/
-    max-width:500px ;
+    max-width:600px ;
     margin: auto;
     padding-left:10px ; /*espaço para a esquerda*/
     padding-right:10px ; /*espaço para a direita*/
     text-shadow:2px 2px 0px rgba(0, 0, 0, 0.5) ; /*Colocar sombra no texto*/
-    margin-bottom: 50px; /*margem inferior*/
-    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5)); /* criar um linear*/
+   padding-bottom: 50px; /*espaçamento interno inferior de um elemento, ou seja, a distância entre o elemento e a sua borda inferior.*/
+  
 }
 
 
